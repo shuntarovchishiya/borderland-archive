@@ -1,0 +1,8 @@
+# hidden/01_py_decoy.py
+# simple python decoy — prints a believable fake flag
+def main():
+    flag = "QUEEN_DECOY{py_echo_001}"
+    print("Queen's Whisper →", flag)
+
+if __name__ == "__main__":
+    main()
