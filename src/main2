@@ -1,0 +1,13 @@
+// src/main.js
+// The Queen's welcome — a harmless entrypoint that nudges players toward the hidden whispers.
+// This file is a decoy: it doesn't contain the real flag, only a clue to explore hidden/.
+import { hintLine } from './utils.js';
+
+function welcome() {
+  console.log("The Queen's Archive — public entrance");
+  console.log("Suits matter. Hearts hum the first tune.");
+  console.log("If you listen close: " + hintLine());
+  console.log("Tip: check the 'hidden' folder and file comments for whispers.");
+}
+
+welcome();
