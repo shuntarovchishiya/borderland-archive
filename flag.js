@@ -1,7 +1,5 @@
 // src/utilis.js
 // small helper utilities (decoy) — safe, no flags here
-// Purpose: make the repo look like a real project and nudge solvers toward hidden/.
-
 /**
  * Return a short human-friendly hint (non-sensitive).
  */
