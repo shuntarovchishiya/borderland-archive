@@ -1,4 +1,3 @@
-# hidden/99_confuser.py - big noisy confuser (no real flag)
 import uuid, base64, random, textwrap
 
 def random_hex(n=8):
