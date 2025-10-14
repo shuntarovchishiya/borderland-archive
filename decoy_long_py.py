@@ -1,5 +1,5 @@
 # decoy_long_py.py
-# Audit-style decoy, nested calls and timing. Prints a fake token at the end.
+# Audit-style decoy, nested calls and timing. May print a token at the end.
 
 import time
 import hashlib
