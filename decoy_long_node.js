@@ -1,6 +1,3 @@
-// decoy_long_node.js
-// Worker-like decoy. Lots of noise and loops to waste time.
-// When run with Node it prints a convincing decoy flag.
 
 (function main(){
   console.log("[worker] booting up...");
